@@ -1,4 +1,4 @@
-# sign-lang
+# app.py
 import streamlit as st
 
 st.title("AI Accessibility & Inclusion Assistant")
